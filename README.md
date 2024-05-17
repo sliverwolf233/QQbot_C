@@ -1,6 +1,7 @@
 <div align='center'><strong>基于C++ 的QQ机器人实现</strong></div><br>
 这个库将要用来上传为一个基于C++的QQ_Bot实现,具有高度可扩展性。<br>
 这个实现将不会使用onebot协议规范,但是您可以通过自定义扩展支持它.<br>
+在使用时,您需要有公网IP,因为Tencent的服务器不支持IPv6,所以您需要有独立的IPv4地址.<br>
 如果你喜欢这个项目 请点亮star十分感谢<br>
 Q/A:<br>
 Q:当这个项目完成的时候我可以修改什么?<br>
