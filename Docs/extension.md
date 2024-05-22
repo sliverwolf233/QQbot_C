@@ -7,8 +7,8 @@
     "plugin"[<br>
         {<br>
             "Name" : "",<br>
-            "FN" : "",//功能名字<br>
-            "LOTRRCAbility" : ""//是否具有长时间运行等待并且快速响应能力<br>
+            "AbilityName" : "",//功能名字<br>
+            "LOTRRCAbility" : 1//是否具有长时间运行等待并且快速响应能力<br>
             "Path" : ""<br>
         }<br>
     ]<br>
