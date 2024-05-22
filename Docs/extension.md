@@ -3,7 +3,7 @@
 请将plugin.json修改为<br>
 {<br>
     "Enable STL" : "flase",<br>
-    "Port" : "25565",<br>
+    "Port" : 25565,<br>
     "plugin"[<br>
         {<br>
             "Name" : "",<br>
@@ -16,7 +16,7 @@
 将extension.json改为<br>
 {<br>
     "Enable STL" : "true",<br>
-    "Port" : "25566",<br>
+    "Port" : 25566,<br>
     "plugin"[<br>
         {<br>
             "Name" : "",<br>
